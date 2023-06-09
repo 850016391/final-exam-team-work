@@ -1,6 +1,7 @@
 #include"global.h"
 void menu() 
 {
+    int i;
     int option;
     string username, password;
 
